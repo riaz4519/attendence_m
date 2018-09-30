@@ -1,0 +1,142 @@
+/*main wrap*/
+body{
+    background-color: #EBF0F5;
+}
+/*panel body*/
+.panel_shadow{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.title_main h1{
+    font-family: 'Mogra', cursive;
+    color: #B0E1EF;
+
+}
+
+/*login_wrap*/
+.login_main{
+    margin-top: 100px;
+}
+/*tabs of parent*/
+.nav-tabs li a{
+    font-weight: bold;
+}
+/*end of login_wrap */
+.login_back .fa-user-circle{
+    color: cornflowerblue;
+    opacity: .5;
+}
+.login_main .panel{
+
+
+
+}
+.img_pt{
+    margin: 0 auto;
+    height: 100px;
+    width: 100px;
+    border: 5px solid #b0e1ef;
+    border-radius: 50%;
+    padding: 2px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+
+/*inputs design*/
+.tab-content input[type=text],input[type=password]{
+
+
+
+}
+
+
+/*...............this is the area where all the parent page work will be done............*/
+
+/*navs*/
+.p_nav .navbar-inverse{
+    border-radius: 0;
+}
+
+
+
+/*.....
+this is for teacher
+......
+*/
+
+.welcome{
+
+}
+.select_width{
+    width: 200px;
+    height: 30px;
+    border-radius: 4px;
+}
+.select_width:focus{
+    border: 1px solid blue;
+}
+
+/*take attendance part*/
+
+.take_attendance_s{
+    margin-top: 50px;
+}
+
+.take_attendance_s .table-bordered thead {
+    background: #F1F1F1;
+
+
+}
+.which_class .panel-body{
+    background: #F1F1F1;
+}
+.which_class .panel-body:hover{
+    background: #E8E8E8;
+}
+.all_p{
+    background: #F5F5F6;
+}
+
+
+
+/*edit by teacher */
+.edit_student_res{
+    margin-top: 20px;
+}
+
+/*........Monthly preview page........*/
+.monthly_prev h2{
+    color: #000;
+    border: 1px solid green;
+    width: 500px;
+    padding: 5px;
+
+    margin: 0 auto;
+    border-radius: 4px;
+}
+.monthly_prev h2:hover{
+    background: beige;
+}
+.monthly_prev_ed{
+    border: 1px solid black;
+    height: 600px;
+    padding: 10px;
+    border-radius: 5px;
+}
+/*alert*/
+
+/*admin page style*/
+
+ .header_ps{
+    border: 1px solid black;
+     border-radius: 4px;
+}
+
+ /*index page*/
+
+
+
+
+
